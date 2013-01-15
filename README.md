@@ -1,0 +1,4 @@
+extensions
+==========
+
+Symphony CMS Extensions
