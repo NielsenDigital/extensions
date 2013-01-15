@@ -1,0 +1,24 @@
+[submodule "debugdevkit"]
+	path = debugdevkit
+	url = git://github.com/symphonycms/debugdevkit.git
+[submodule "export_ensemble"]
+	path = export_ensemble
+	url = git://github.com/symphonycms/export_ensemble.git
+[submodule "jit_image_manipulation"]
+	path = jit_image_manipulation
+	url = git://github.com/symphonycms/jit_image_manipulation.git
+[submodule "maintenance_mode"]
+	path = maintenance_mode
+	url = git://github.com/symphonycms/maintenance_mode.git
+[submodule "markdown"]
+	path = markdown
+	url = git://github.com/symphonycms/markdown.git
+[submodule "profiledevkit"]
+	path = profiledevkit
+	url = git://github.com/symphonycms/profiledevkit.git
+[submodule "selectbox_link_field"]
+	path = selectbox_link_field
+	url = git://github.com/symphonycms/selectbox_link_field.git
+[submodule "xssfilter"]
+	path = xssfilter
+	url = git://github.com/symphonycms/xssfilter.git
