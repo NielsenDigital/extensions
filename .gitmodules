@@ -22,3 +22,129 @@
 [submodule "xssfilter"]
 	path = xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "cron"]
+	path = cron
+	url = git://github.com/symphonists/cron.git
+[submodule "asdc"]
+	path = asdc
+	url = git://github.com/symphonycms/asdc.git
+[submodule "breadcrumb"]
+	path = breadcrumb
+	url = git://github.com/symphonists/breadcrumb.git
+[submodule "datemodified"]
+	path = datemodified
+	url = git://github.com/symphonists/datemodified.git
+[submodule "documenter"]
+	path = documenter
+	url = git://github.com/symphonists/documenter.git
+[submodule "duplicate_entry"]
+	path = duplicate_entry
+	url = git://github.com/nickdunn/duplicate_entry.git
+[submodule "email_newsletter_manager"]
+	path = email_newsletter_manager
+	url = git://github.com/creativedutchmen/email_newsletter_manager.git
+[submodule "email_newsletters"]
+	path = email_newsletters
+	url = git://github.com/michael-e/email_newsletters.git
+[submodule "entity_diagram"]
+	path = entity_diagram
+	url = git://github.com/nickdunn/entity_diagram.git
+[submodule "filterfield"]
+	path = filterfield
+	url = git://github.com/andrrr/filterfield.git
+[submodule "geocodingfield"]
+	path = geocodingfield
+	url = git://github.com/klaftertief/geocodingfield.git
+[submodule "health_check"]
+	path = health_check
+	url = git://github.com/pixelninja/health_check.git
+[submodule "html_panel"]
+	path = html_panel
+	url = git://github.com/nickdunn/html_panel.git
+[submodule "jquery_date_picker"]
+	path = jquery_date_picker
+	url = git://github.com/symphonists/jquery_date_picker.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = git://github.com/lewiswharf/mailchimp.git
+[submodule "markitup"]
+	path = markitup
+	url = git@github.com:wjn/markitup.git
+[submodule "members"]
+	path = members
+	url = git://github.com/symphonycms/members.git
+[submodule "members_activity"]
+	path = members_activity
+	url = git@github.com:wjn/members_activity.git
+[submodule "order_entries"]
+	path = order_entries
+	url = git://github.com/nickdunn/order_entries.git
+[submodule "pagesfield"]
+	path = pagesfield
+	url = git://github.com/symphonists/pagesfield.git
+[submodule "pagetemplates"]
+	path = pagetemplates
+	url = git://github.com/zenjoon/pagetemplates.git
+[submodule "paypal_payments"]
+	path = paypal_payments
+	url = git://github.com/symphonists/paypal_payments.git
+[submodule "publish_tabs"]
+	path = publish_tabs
+	url = git://github.com/nickdunn/publish_tabs.git
+[submodule "publishfiltering"]
+	path = publishfiltering
+	url = git://github.com/nickdunn/publishfiltering.git
+[submodule "quickds"]
+	path = quickds
+	url = git://github.com/knupska/quickds.git
+[submodule "quickevent"]
+	path = quickevent
+	url = git://github.com/knupska/quickevent.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = git@github.com:wjn/recaptcha.git
+[submodule "referencelink"]
+	path = referencelink
+	url = git://github.com/symphonists/referencelink.git
+[submodule "reflectionfield"]
+	path = reflectionfield
+	url = git://github.com/symphonists/reflectionfield.git
+[submodule "resave_entries"]
+	path = resave_entries
+	url = git://github.com/alpacaaa/resave_entries.git
+[submodule "richtext_tinymce"]
+	path = richtext_tinymce
+	url = git://github.com/symphonists/richtext_tinymce.git
+[submodule "s3upload_field"]
+	path = s3upload_field
+	url = git@github.com:wjn/s3upload_field.git
+[submodule "search_index"]
+	path = search_index
+	url = git://github.com/symphonists/search_index.git
+[submodule "section_schemas"]
+	path = section_schemas
+	url = git://github.com/nickdunn/section_schemas.git
+[submodule "sitemap"]
+	path = sitemap
+	url = git://github.com/nickdunn/sitemap.git
+[submodule "subsectionmanager"]
+	path = subsectionmanager
+	url = git://github.com/hananils/subsectionmanager.git
+[submodule "textboxfield"]
+	path = textboxfield
+	url = git://github.com/rowan-lewis/textboxfield.git
+[submodule "uniqueuploadfield"]
+	path = uniqueuploadfield
+	url = git://github.com/michael-e/uniqueuploadfield.git
+[submodule "url_segments"]
+	path = url_segments
+	url = git://github.com/symphonists/url_segments.git
+[submodule "vimeo_videos"]
+	path = vimeo_videos
+	url = git://github.com/nickdunn/vimeo_videos.git
+[submodule "xml_selectbox"]
+	path = xml_selectbox
+	url = git://github.com/nickdunn/xml_selectbox.git
+[submodule "xmlimporter"]
+	path = xmlimporter
+	url = git://github.com/symphonists/xmlimporter.git
