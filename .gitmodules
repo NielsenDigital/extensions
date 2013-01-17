@@ -148,3 +148,9 @@
 [submodule "xmlimporter"]
 	path = xmlimporter
 	url = git://github.com/symphonists/xmlimporter.git
+[submodule "globalparamloader"]
+	path = globalparamloader
+	url = git://github.com/symphonists/globalparamloader.git
+[submodule "email_template_manager"]
+	path = email_template_manager
+	url = git@github.com:wjn/email_template_manager.git
