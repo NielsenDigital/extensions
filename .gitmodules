@@ -148,3 +148,6 @@
 [submodule "xmlimporter"]
 	path = xmlimporter
 	url = git://github.com/symphonists/xmlimporter.git
+[submodule "paypal_invoices"]
+	path = paypal_invoices
+	url = git@github.com:wjn/paypal_invoices.git
