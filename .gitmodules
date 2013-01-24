@@ -151,3 +151,6 @@
 [submodule "paypal_invoices"]
 	path = paypal_invoices
 	url = git@github.com:wjn/paypal_invoices.git
+[submodule "nd_project_manager"]
+	path = nd_project_manager
+	url = git@github.com:wjn/nd_project_manager.git
