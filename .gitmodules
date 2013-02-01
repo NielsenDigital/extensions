@@ -156,7 +156,7 @@
 	url = git@github.com:wjn/nd_project_manager.git
 [submodule "admin_css_override"]
 	path = admin_css_override
-	url = git://github.com/michael-e/admin_css_override.git
+	url = git://github.com/wjn/admin_css_override.git
 [submodule "admin_css_override_print"]
 	path = admin_css_override_print
 	url = git@github.com:wjn/admin_css_override_print.git
