@@ -148,6 +148,7 @@
 [submodule "xmlimporter"]
 	path = xmlimporter
 	url = git://github.com/symphonists/xmlimporter.git
+<<<<<<< HEAD
 [submodule "paypal_invoices"]
 	path = paypal_invoices
 	url = git@github.com:wjn/paypal_invoices.git
@@ -163,3 +164,11 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/wjn/slider.git
+=======
+[submodule "globalparamloader"]
+	path = globalparamloader
+	url = git://github.com/symphonists/globalparamloader.git
+[submodule "email_template_manager"]
+	path = email_template_manager
+	url = git@github.com:wjn/email_template_manager.git
+>>>>>>> ff9a949c5163c94f880994c5ab6b73bb41c525c6
