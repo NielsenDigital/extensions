@@ -69,7 +69,7 @@
 	url = git://github.com/lewiswharf/mailchimp.git
 [submodule "markitup"]
 	path = markitup
-	url = git@github.com:wjn/markitup.git
+	url = git@github.com:wjn/markitup-cms.git
 [submodule "members"]
 	path = members
 	url = git://github.com/symphonycms/members.git
@@ -169,3 +169,18 @@
 [submodule "email_template_manager"]
 	path = email_template_manager
 	url = git@github.com:wjn/email_template_manager.git
+[submodule "browser-detection"]
+	path = browser-detection
+	url = git@github.com:wjn/browser-detection.git
+[submodule "browswer_detection"]
+	path = browswer_detection
+	url = git@github.com:wjn/browser-detection.git
+[submodule "browser_detection"]
+	path = browser_detection
+	url = git@github.com:wjn/browser-detection.git
+[submodule "ckeditor"]
+	path = ckeditor
+	url = git://github.com/tonyarnold/symphony-ckeditor.git
+[submodule "multiselect_to_checkboxes"]
+	path = multiselect_to_checkboxes
+	url = git@github.com:wjn/multiselect_to_checkboxes.git
