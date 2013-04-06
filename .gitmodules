@@ -150,10 +150,10 @@
 	url = git://github.com/symphonists/xmlimporter.git
 [submodule "paypal_invoices"]
 	path = paypal_invoices
-	url = git@github.com:wjn/paypal_invoices.git
+	url = git@github.com:NielsenDigital/paypal_invoices.git
 [submodule "nd_project_manager"]
 	path = nd_project_manager
-	url = git@github.com:wjn/nd_project_manager.git
+	url = git@github.com:NielsenDigital/nd_project_manager.git
 [submodule "admin_css_override"]
 	path = admin_css_override
 	url = git://github.com/wjn/admin_css_override.git
