@@ -114,7 +114,7 @@
 	url = git://github.com/alpacaaa/resave_entries.git
 [submodule "richtext_tinymce"]
 	path = richtext_tinymce
-	url = git://github.com/symphonists/richtext_tinymce.git
+	url = git@github.com:NielsenDigital/richtext_tinymce.git
 [submodule "s3upload_field"]
 	path = s3upload_field
 	url = git@github.com:wjn/s3upload_field.git
