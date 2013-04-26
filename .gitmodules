@@ -22,3 +22,9 @@
 [submodule "xssfilter"]
 	path = xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "members"]
+	path = members
+	url = git@github.com:NielsenDigital/members.git
+[submodule "subsectionmanager"]
+	path = subsectionmanager
+	url = git@github.com:NielsenDigital/subsectionmanager.git
