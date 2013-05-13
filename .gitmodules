@@ -184,3 +184,6 @@
 [submodule "multiselect_to_checkboxes"]
 	path = multiselect_to_checkboxes
 	url = git@github.com:wjn/multiselect_to_checkboxes.git
+[submodule "html5_doctype"]
+	path = html5_doctype
+	url = git@github.com:NielsenDigital/html5_doctype.git
