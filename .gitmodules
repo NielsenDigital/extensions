@@ -177,7 +177,7 @@
 	url = git@github.com:wjn/browser-detection.git
 [submodule "browser_detection"]
 	path = browser_detection
-	url = git@github.com:wjn/browser-detection.git
+	url = git@github.com:NielsenDigital/browser-detection.git
 [submodule "ckeditor"]
 	path = ckeditor
 	url = git://github.com/tonyarnold/symphony-ckeditor.git
