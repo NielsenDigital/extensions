@@ -120,7 +120,7 @@
 	url = git@github.com:wjn/s3upload_field.git
 [submodule "search_index"]
 	path = search_index
-	url = git://github.com/symphonists/search_index.git
+	url = git@github.com:NielsenDigital/search_index.git
 [submodule "section_schemas"]
 	path = section_schemas
 	url = git://github.com/nickdunn/section_schemas.git
@@ -141,7 +141,7 @@
 	url = git://github.com/symphonists/url_segments.git
 [submodule "vimeo_videos"]
 	path = vimeo_videos
-	url = git://github.com/nickdunn/vimeo_videos.git
+	url = git://github.com/wjn/vimeo_videos.git
 [submodule "xml_selectbox"]
 	path = xml_selectbox
 	url = git://github.com/nickdunn/xml_selectbox.git
