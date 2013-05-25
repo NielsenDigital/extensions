@@ -187,3 +187,6 @@
 [submodule "html5_doctype"]
 	path = html5_doctype
 	url = git@github.com:NielsenDigital/html5_doctype.git
+[submodule "datetime"]
+	path = datetime
+	url = git@github.com:NielsenDigital/datetime.git
