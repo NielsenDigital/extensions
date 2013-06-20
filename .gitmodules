@@ -33,7 +33,7 @@
 	url = git://github.com/symphonists/breadcrumb.git
 [submodule "datemodified"]
 	path = datemodified
-	url = git://github.com/symphonists/datemodified.git
+	url = git@github.com:NielsenDigital/datemodified.git
 [submodule "documenter"]
 	path = documenter
 	url = git://github.com/symphonists/documenter.git
