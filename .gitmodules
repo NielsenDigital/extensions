@@ -190,3 +190,6 @@
 [submodule "datetime"]
 	path = datetime
 	url = git@github.com:NielsenDigital/datetime.git
+[submodule "uniondatasource"]
+	path = uniondatasource
+	url = git@github.com:NielsenDigital/uniondatasource.git
