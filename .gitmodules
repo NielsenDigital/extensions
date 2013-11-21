@@ -43,3 +43,6 @@
 [submodule "jquery_date_picker"]
 	path = jquery_date_picker
 	url = git@github.com:NielsenDigital/jquery_date_picker.git
+[submodule "pagesfield"]
+	path = pagesfield
+	url = git@github.com:NielsenDigital/pagesfield.git
