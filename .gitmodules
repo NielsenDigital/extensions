@@ -55,3 +55,6 @@
 [submodule "datetime"]
 	path = datetime
 	url = git@github.com:NielsenDigital/datetime.git
+[submodule "publishfiltering"]
+	path = publishfiltering
+	url = git@github.com:NielsenDigital/publishfiltering.git
