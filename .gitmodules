@@ -49,3 +49,6 @@
 [submodule "uniqueuploadfield"]
 	path = uniqueuploadfield
 	url = git@github.com:NielsenDigital/uniqueuploadfield.git
+[submodule "order_entries"]
+	path = order_entries
+	url = git@github.com:NielsenDigital/order_entries.git
