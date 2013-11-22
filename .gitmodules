@@ -46,3 +46,6 @@
 [submodule "pagesfield"]
 	path = pagesfield
 	url = git@github.com:NielsenDigital/pagesfield.git
+[submodule "uniqueuploadfield"]
+	path = uniqueuploadfield
+	url = git@github.com:NielsenDigital/uniqueuploadfield.git
