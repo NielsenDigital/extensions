@@ -58,3 +58,9 @@
 [submodule "publishfiltering"]
 	path = publishfiltering
 	url = git@github.com:NielsenDigital/publishfiltering.git
+[submodule "breadcrumb"]
+	path = breadcrumb
+	url = git@github.com:NielsenDigital/breadcrumb.git
+[submodule "twitter"]
+	path = twitter
+	url = git@github.com:NielsenDigital/twitter.git
