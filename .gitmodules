@@ -52,6 +52,9 @@
 [submodule "filterfield"]
 	path = filterfield
 	url = git://github.com/andrrr/filterfield.git
+[submodule "geocodingfield"]
+	path = geocodingfield
+	url = git://github.com/klaftertief/geocodingfield.git
 [submodule "health_check"]
 	path = health_check
 	url = git://github.com/pixelninja/health_check.git
@@ -112,6 +115,9 @@
 [submodule "richtext_tinymce"]
 	path = richtext_tinymce
 	url = git@github.com:NielsenDigital/richtext_tinymce.git
+[submodule "s3upload_field"]
+	path = s3upload_field
+	url = git@github.com:wjn/s3upload_field.git
 [submodule "search_index"]
 	path = search_index
 	url = git@github.com:NielsenDigital/search_index.git
@@ -133,12 +139,21 @@
 [submodule "url_segments"]
 	path = url_segments
 	url = git@github.com:symphonists/url_segments.git
+[submodule "vimeo_videos"]
+	path = vimeo_videos
+	url = git://github.com/wjn/vimeo_videos.git
 [submodule "xml_selectbox"]
 	path = xml_selectbox
 	url = git://github.com/nickdunn/xml_selectbox.git
 [submodule "xmlimporter"]
 	path = xmlimporter
 	url = git://github.com/symphonists/xmlimporter.git
+[submodule "paypal_invoices"]
+	path = paypal_invoices
+	url = git@github.com:NielsenDigital/paypal_invoices.git
+[submodule "nd_project_manager"]
+	path = nd_project_manager
+	url = git@github.com:NielsenDigital/nd_project_manager.git
 [submodule "admin_css_override"]
 	path = admin_css_override
 	url = git://github.com/wjn/admin_css_override.git
@@ -148,9 +163,27 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/wjn/slider.git
+[submodule "globalparamloader"]
+	path = globalparamloader
+	url = git://github.com/symphonists/globalparamloader.git
 [submodule "email_template_manager"]
 	path = email_template_manager
 	url = git@github.com:wjn/email_template_manager.git
+[submodule "browser-detection"]
+	path = browser-detection
+	url = git@github.com:wjn/browser-detection.git
+[submodule "browswer_detection"]
+	path = browswer_detection
+	url = git@github.com:wjn/browser-detection.git
+[submodule "browser_detection"]
+	path = browser_detection
+	url = git@github.com:NielsenDigital/browser-detection.git
+[submodule "ckeditor"]
+	path = ckeditor
+	url = git://github.com/tonyarnold/symphony-ckeditor.git
+[submodule "multiselect_to_checkboxes"]
+	path = multiselect_to_checkboxes
+	url = git@github.com:wjn/multiselect_to_checkboxes.git
 [submodule "html5_doctype"]
 	path = html5_doctype
 	url = git@github.com:NielsenDigital/html5_doctype.git
