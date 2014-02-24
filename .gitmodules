@@ -138,7 +138,7 @@
 	url = git://github.com/michael-e/uniqueuploadfield.git
 [submodule "url_segments"]
 	path = url_segments
-	url = git://github.com/symphonists/url_segments.git
+	url = git@github.com:symphonists/url_segments.git
 [submodule "vimeo_videos"]
 	path = vimeo_videos
 	url = git://github.com/wjn/vimeo_videos.git
