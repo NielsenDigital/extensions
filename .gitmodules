@@ -64,3 +64,6 @@
 [submodule "twitter"]
 	path = twitter
 	url = git@github.com:NielsenDigital/twitter.git
+[submodule "html5_doctype"]
+	path = html5_doctype
+	url = git@github.com:symphonists/html5_doctype.git
